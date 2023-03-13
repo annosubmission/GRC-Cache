@@ -1,7 +1,7 @@
 
 
 # Cached Transformers
-This annoymous repo contains introductions and codes of paper "Cached Transformers: Improving Vision Transformers with Differentiable Memory Cache ".
+This annoymous repo contains introductions and codes of paper "Cached Transformers: Improving Transformers with Differentiable Memory Cache ".
  
 
 ## Introduction
